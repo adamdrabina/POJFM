@@ -1,0 +1,5 @@
+[[Projekce]]
+[[Selekce]]
+[[Prunik]]
+[[Sjednoceni]]
+[[Diference]]

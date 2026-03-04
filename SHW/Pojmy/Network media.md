@@ -1,0 +1,16 @@
+- ##### Copper
+	- UTP kabel
+	- elektricky signal
+	- levne
+	- omezena vzdalenost
+	- nachylne na ruseni
+- ##### Optika
+	- temer nerusitelna
+	- nejrychlejsi
+	- cena je vetsi
+	- koncovka nesedi casto s PC a je vice typu
+- ##### Wireless
+	- kvuli mobilum
+	- radiove vlny
+	- mobilita
+	- nizsi stabilita nez kabel

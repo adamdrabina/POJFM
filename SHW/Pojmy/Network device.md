@@ -1,0 +1,3 @@
+- [[Intermediary]]
+- [[End device]]
+- [[NIC]]

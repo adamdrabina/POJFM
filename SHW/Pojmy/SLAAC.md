@@ -1,0 +1,4 @@
+- nepotrebuju DHCP
+- automaticky se nastavi podle MAC adresy nebo nejakeho jineho zpusobu
+- potrebuju mit stejny prefix jako u routeru
+- hrozi ze zarizeni budou mit stejnou IP adresu

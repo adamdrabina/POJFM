@@ -1,0 +1,2 @@
+- server (DHCP), client
+- nevedou z neho dal kabely, zarizeni odesilaji nebo prijimaji data

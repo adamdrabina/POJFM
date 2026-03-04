@@ -1,0 +1,1 @@
+- kdyz vytvarim novou sit, vytvorim ji tak at se da rozsirit

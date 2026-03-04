@@ -1,0 +1,4 @@
+- staticky
+- DHCPv6
+- [[SLAAC]]
+- Stateless DHCPv6

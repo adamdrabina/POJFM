@@ -1,0 +1,3 @@
+- Dalsi moznost je sifrovat slozku a zakliknout sifrovat i podslozky a soubory
+- Ale po tehle akci jde se souborem hybat, mazat,…
+![[Pasted image 20260120110007.png]]

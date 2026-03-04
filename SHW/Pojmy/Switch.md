@@ -1,0 +1,3 @@
+ - propojuje zarizeni v jedne siti
+- doma mam hodne pocitacu, chci je spojit kabelem
+- ma [[MAC tabulka]]

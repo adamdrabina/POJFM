@@ -1,0 +1,3 @@
+- broadcast
+- poslu vsem s vyjimkou portu na ktery frame prisel
+- napr. f0/1 = FF a switch posle frame dal na vsechny pripojeny zarizeni krom f0/1

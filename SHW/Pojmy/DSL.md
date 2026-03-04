@@ -1,0 +1,4 @@
+- Digital Subscriber Line
+- vyuziva telefonnich, medenych linek
+- rychlejsi stahovani, nez nahravani
+- v jeden okamzik se da volat a zaroven vyuzivat internet

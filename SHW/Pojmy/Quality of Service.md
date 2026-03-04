@@ -1,0 +1,2 @@
+- priority
+- nektere sluzby uprednostnujeme pred jinymi

@@ -1,0 +1,4 @@
+- 4 vazny [[Kremik]] a 5 vazny Fosfor
+- v krystalicke mrizce latky je atom fosforu vazan 4 elektrony k atomu kremiku => 5 elektron se nema na co privazat
+- 5 elektron => **vedeni elektrickeho proudu**
+- Tato petivazna primes = **Donor** (darce, daroval jeden volny elektron)

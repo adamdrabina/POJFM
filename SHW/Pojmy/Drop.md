@@ -1,0 +1,3 @@
+- stejna source a destination, error
+- stejny port (source, destination)
+- frame se zahodi

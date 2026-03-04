@@ -1,0 +1,2 @@
+- zustava stejny napric sitemi
+- ma zivotnost

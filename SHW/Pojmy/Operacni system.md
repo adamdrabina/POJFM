@@ -1,0 +1,8 @@
+- Cisco IOS
+- ##### Kernel 
+	- jadro
+	- nachazi se zde napr drivery
+- ##### Shell
+	- prostredi ve kterem pracuju s OS
+	- GUI
+	- CLI

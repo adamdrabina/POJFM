@@ -1,0 +1,3 @@
+- IP adresu
+- slouzi v uzavrene siti
+- prava obnova privatnich adres

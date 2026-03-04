@@ -1,0 +1,4 @@
+- vystupni hodnota je 1, kdyz jsou vsechny vstupni hodnoty 1
+- AND
+- y = x1 * x2
+- znacka: &

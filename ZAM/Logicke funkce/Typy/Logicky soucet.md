@@ -1,0 +1,3 @@
+- vystupni hodnota je 1, kdyz alespon jedna vstupni hodnota je 1
+- OR
+- y = x1 + x2

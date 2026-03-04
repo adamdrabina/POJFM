@@ -1,0 +1,1 @@
+- automaticka detekce toho zda je ten kabel crossover nebo straight through a provoz funguje za kazdych okolnosti

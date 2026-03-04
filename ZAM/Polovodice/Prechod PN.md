@@ -1,0 +1,2 @@
+- vznikne tak, ze spojime dve oblasti => **oblast s vodivosti N + oblast s vodivostni P**
+- [[Hradlova vrstva]]

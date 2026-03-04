@@ -1,0 +1,1 @@
+- propojuje site po celem svete

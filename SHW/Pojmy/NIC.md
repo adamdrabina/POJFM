@@ -1,0 +1,5 @@
+- Network Interface Card
+- sitova karta
+- zajistuje pripojeni zarizeni k siti
+- Ethernet, Wi-Fi
+- ma MAC adresu

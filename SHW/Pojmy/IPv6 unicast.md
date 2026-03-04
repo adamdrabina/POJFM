@@ -1,0 +1,2 @@
+- ::1 => loopback, IP adresa meho zarizeni, pinguju sam sebe
+- [[Global unicast]]

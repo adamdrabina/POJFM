@@ -1,0 +1,3 @@
+- opak OR
+- NOR (NOT OR)
+- vystupni hodnota je 0, kdyz alespon jedna vsutpni hodnota je 1

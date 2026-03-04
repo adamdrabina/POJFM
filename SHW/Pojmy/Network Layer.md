@@ -1,0 +1,3 @@
+- [[Packet]]
+- posilani napric sitemi
+- na tomto layer se nachazi router -> [[Router]]

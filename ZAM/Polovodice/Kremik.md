@@ -1,0 +1,4 @@
+-  14 elektronu (4 jsou ve valencni vrstve)
+-  pri nizkych teplotach ma velky elektricky odpor, neobsahuje zadne volne elektrony => **izolant**
+- pri vyssich teplotach dodame energii a volne elektrony ve valencni vrstve zacnou byt vodive => **vodic**
+- po opusteni volneho elektronu vznika **[[Dira]]**

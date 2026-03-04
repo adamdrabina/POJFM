@@ -1,0 +1,9 @@
+- ##### Message source
+	- sender
+	- ###### pocitac pana Balona
+- ##### Message Destination
+	- receiver
+	- ###### muj pocitac
+- ##### Channel
+	- cesta, kterou signal jde
+	- ###### UTP kabel

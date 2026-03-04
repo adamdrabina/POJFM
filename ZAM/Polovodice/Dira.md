@@ -1,0 +1,3 @@
+- kladne nabite misto
+- do diry muze preskocit jiny elektron => dira se ,,pohybuje"
+- setkavanim der s elektrony dochazi k zaniku der i volnych elektronu => **rekombinace**

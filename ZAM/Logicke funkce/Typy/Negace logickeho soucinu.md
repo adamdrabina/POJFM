@@ -1,0 +1,2 @@
+- NAND (NOT AND)
+- opak AND

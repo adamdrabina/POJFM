@@ -1,0 +1,5 @@
+- [] - nepovinne prvky
+- {} - mnozina prvku
+- () - udaj je nutne zapsat do zavorek
+- ... - prvek se muze opakovat
+- | - vylouceni prvku

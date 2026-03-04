@@ -1,0 +1,2 @@
+- maly a rychly prepinac
+- CPU

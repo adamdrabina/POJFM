@@ -1,0 +1,2 @@
+- staticky
+- DHCP (server, client)

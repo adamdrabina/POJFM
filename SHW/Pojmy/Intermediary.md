@@ -1,0 +1,2 @@
+- router, hub, switch
+- propojuje jina zarizeni a prenaseji data dal

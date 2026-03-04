@@ -1,0 +1,6 @@
+- postupne pingovani
+- postupne se pridava hodnota TTL -> 
+	- TTL = 1, dojde to pouze na jeden router a zpet
+	- TTL = 2, dojde na druhy a vraci se zpet
+	- takto se pridava dokud nedojde na cilovou destinaci
+	- neco jako cyklus **for**

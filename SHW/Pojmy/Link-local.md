@@ -1,0 +1,3 @@
+- neco jako privatni IP adresa
+- prvni tri bity: 001
+- automaticky vygenerovany

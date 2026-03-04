@@ -1,0 +1,3 @@
+- prikaz v cmd
+- Vypise textove soubory
+- Neco jako na linuxu cat

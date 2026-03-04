@@ -1,0 +1,2 @@
+- unikatni adresa
+- jedinecna na celem svete

@@ -1,0 +1,8 @@
+- 128 bitu
+- Dual Stack
+- [[Prefix vs Interface ID]]
+- ~~subnet mask~~
+- [[IPv6 unicast]]
+- [[Global unicast]]
+- [[Link-local]]
+- [[Unique local]]

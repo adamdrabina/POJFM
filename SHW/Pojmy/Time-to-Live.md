@@ -1,0 +1,1 @@
+- pocet transportu, ktera packet zvladne nez umre

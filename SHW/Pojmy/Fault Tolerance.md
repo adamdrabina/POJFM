@@ -1,0 +1,4 @@
+- predchazeni chyb
+- 2 rizky jsou lepsi nez jeden (redundance)
+- 2 routery a ne jeden
+- zalohy

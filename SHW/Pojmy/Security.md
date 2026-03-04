@@ -1,0 +1,2 @@
+- mit vsechno nejlip zabezpeceno
+- zaheslovani routeru, switchu

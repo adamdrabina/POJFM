@@ -1,0 +1,3 @@
+- [[Kremik]] + prvnek pouze se tremi valencnimi elektrony (napr. Bor)
+- Kdyz se trojvazny prvek navaze na [[Kremik]] => chybejici elektron se bude jevit jako kladny naboj ([[Dira]])
+- Tato trojvazna primes = **Akceptor** 

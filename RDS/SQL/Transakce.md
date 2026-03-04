@@ -1,0 +1,1 @@
+bud se transakce provede, nebo se neprovede vubec

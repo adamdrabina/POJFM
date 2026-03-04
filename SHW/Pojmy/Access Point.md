@@ -1,0 +1,3 @@
+- propojuje bezdratova zarizeni s kabelovou siti
+- funguje jako bridge
+- rozsiruje Wi-Fi sit

@@ -1,0 +1,3 @@
+- Token ring topology
+- ted se posles ty, potom ty, potom ty.....
+![[Pasted image 20251124111354.png]]

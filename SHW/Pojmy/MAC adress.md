@@ -1,0 +1,3 @@
+- jedinecny identifikator zarizeni v siti
+- 48 bitu
+- v 16 soustave

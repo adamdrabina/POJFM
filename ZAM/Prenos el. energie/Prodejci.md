@@ -1,0 +1,3 @@
+nakup primo od vyrobce
+ČEZ prodej, Innogy.....
+vyuzivaji distribucni sit distributora

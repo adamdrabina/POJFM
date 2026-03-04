@@ -1,0 +1,9 @@
+- ##### Console
+	- naprimo pripojeny switch s pocitacem
+- ##### SSH
+	- vzdalene
+	- sifrovane
+	- Secure Shell
+- ##### Telnet
+	- vzdalene
+	- nesifrovane
