@@ -5,3 +5,7 @@
 2) Depozita
 3) Cenne papiry (akcie)
 4) Kryptomeny
+**Znaky**
+Vodoznak
+Okenkovy
+
