@@ -14,4 +14,6 @@
 5. Duhove baravny pruh (od 1000)
 6. Mikrotext
 
-**Platebni styk** - hotovostni a bezhotovostni
+**Platebni styk**
+1) Hotovostni - bankovka, postovni poukazka
+2) Bezhotovostni - je potreba mit bankovni 
