@@ -16,4 +16,9 @@
 
 **Platebni styk**
 1) Hotovostni - bankovka, postovni poukazka
-2) Bezhotovostni - je potreba mit bankovni 
+2) Bezhotovostni - je potreba mit bankovni ucet
+**Karta**
+- je potreba mit bankovni ucet
+- kreditni je uverova
+- debetni pou
+
