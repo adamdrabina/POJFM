@@ -20,5 +20,5 @@
 **Karta**
 - je potreba mit bankovni ucet
 - kreditni je uverova
-- debetni pou
+- debetni pouze do vyse zustatku na uctu
 
