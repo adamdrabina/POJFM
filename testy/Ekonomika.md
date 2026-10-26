@@ -6,6 +6,10 @@
 3) Cenne papiry (akcie)
 4) Kryptomeny
 **Znaky**
-Vodoznak
-Okenkovy
+5. Vodoznak
+6. Okenkovy prouzek
+7. Ochranna vlakna
+8. Skryty obrazec
+9. Duhove baravny pruh (od 1000)
+10. Mikrotext
 
