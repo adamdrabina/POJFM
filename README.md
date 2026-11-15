@@ -1,2 +1,2 @@
 # POJFM
-Zdravim vsechny, zde najdete moje zapisy a maturitni cetbu
+Zdravim vsechny, zde najdete moje zapisy a maturitni cetbu, otazky
